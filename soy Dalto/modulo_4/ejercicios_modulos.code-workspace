@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "modulo_4"
+		},
+		{
+			"path": "modulo_3"
+		},
+		{
+			"path": "modulos_2"
+		},
+		{
+			"path": "modulos"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

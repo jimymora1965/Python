@@ -1,0 +1,13 @@
+Los datos son:
+Nombre: jimy
+Apellido: mora
+------------
+Nombre: valentina
+Apellido: martinez
+------------
+Nombre: erica
+Apellido: diaz
+------------
+Nombre: christian
+Apellido: aaron
+------------

@@ -1,0 +1,6 @@
+import mimodulo
+a = mimodulo.persona1["edad"]
+print(a)
+
+b = mimodulo.persona1["nombre"]
+print(b)
